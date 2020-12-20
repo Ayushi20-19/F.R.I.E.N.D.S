@@ -103,4 +103,4 @@ for(var k = 0;k <  Leaderboard.length; k++){
   console.log(Leaderboard[k].name," : ",Leaderboard[k].Score,"\n")
 }
 
-console.log("Thanks for playing")
+console.log("Clap clap clap :)")
